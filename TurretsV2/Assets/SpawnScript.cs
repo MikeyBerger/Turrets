@@ -1,25 +1,43 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SpawnScript : MonoBehaviour
 {
 
     public float Timer;
     public float Limit;
+    public int Score;
+    public int HiScore;
     public Transform[] Spawners;
     public Transform []Enemies;
     public int RandSpawner;
     private int RandEnemy;
-    public bool P2;
-    public bool P3;
-    public bool P4;
-    private PlayerScript PS;
+    public Text ScoreText;
+    public Text HiScoreText;
+
+
+    IEnumerator LowerLimit()
+    {
+        yield return new WaitForSeconds(10);
+        if (Limit == 300)
+        {
+           Limit = 300;
+        }
+        else
+        {
+           Limit = Limit - .1f;
+        }
+    }
+    //private PlayerScript PS;
 
     // Start is called before the first frame update
     void Start()
     {
-        PS = GameObject.FindGameObjectWithTag("Player1").GetComponent<PlayerScript>();
+        Score = 0;
+        HiScore = PlayerPrefs.GetInt("HiScore");
+        // PS = GameObject.FindGameObjectWithTag("Player1").GetComponent<PlayerScript>();
     }
 
     // Update is called once per frame
@@ -28,8 +46,17 @@ public class SpawnScript : MonoBehaviour
         RandEnemy = Random.Range(1, 4);
         Timer++;
         SpawnEnemy();
-        RegisterPlayers();
+        StartCoroutine(LowerLimit());
 
+        if (Score > HiScore)
+        {
+            HiScore = Score;
+            PlayerPrefs.SetInt("HiScore", HiScore);
+        }
+
+
+        ScoreText.text = "Score: " + Score.ToString();
+        HiScoreText.text = "HighScore: " + HiScore.ToString();
     }
 
     void SpawnEnemy()
@@ -57,14 +84,6 @@ public class SpawnScript : MonoBehaviour
             RandSpawner = Random.Range(1, 6);
             Instantiate(Enemies[3], Spawners[RandSpawner].position, Spawners[RandSpawner].rotation);
             Timer = 0;
-        }
-    }
-
-    void RegisterPlayers()
-    {
-        if (PS.PI.playerIndex == 3)
-        {
-            Debug.Log("3 Players Present!!");
         }
     }
 }

@@ -1,0 +1,1216 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+/Users/mikescomputer/Desktop/GitHubs/Turrets/TurretsV2
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64241
+Successfully changed project path to: /Users/mikescomputer/Desktop/GitHubs/Turrets/TurretsV2
+/Users/mikescomputer/Desktop/GitHubs/Turrets/TurretsV2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 89.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mikescomputer/Desktop/GitHubs/Turrets/TurretsV2/Assets
+GfxDevice: creating device client; threaded=0
+2022-01-18 14:37:43.646 Unity[16258:8603567] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2022-01-18 14:37:43.646 Unity[16258:8603567] Metal devices available: 1
+2022-01-18 14:37:43.646 Unity[16258:8603567] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2022-01-18 14:37:43.646 Unity[16258:8603567] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56258
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.006118 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 72.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 10.513 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 83.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.631 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.51 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.5 MB.
+System memory in use after: 193.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2579.
+Total: 3.706646 ms (FindLiveObjects: 0.416838 ms CreateObjectMapping: 0.198372 ms MarkObjects: 2.920654 ms  DeleteObjects: 0.167171 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/kenney_fontpackage/Fonts/Kenney High.ttf
+  artifactKey: Guid(73886e6a5be694b03a30a79be41578d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney High.ttf using Guid(73886e6a5be694b03a30a79be41578d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4dc31d4b1a2920a5dbd8b692baca6f2') in 2.297679 seconds
+  Import took 2.304622 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.6 MB.
+System memory in use after: 159.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2623.
+Total: 6.645418 ms (FindLiveObjects: 0.777043 ms CreateObjectMapping: 0.345848 ms MarkObjects: 5.326771 ms  DeleteObjects: 0.192529 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.057526 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Blocks.ttf
+  artifactKey: Guid(2f94a81d680f94aa2990394cd1c99241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Blocks.ttf using Guid(2f94a81d680f94aa2990394cd1c99241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434466fa7b2fb56055a938812668c082') in 0.029169 seconds
+  Import took 0.035090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney High Square.ttf
+  artifactKey: Guid(341fb92c1aff941dcb1898c724326041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney High Square.ttf using Guid(341fb92c1aff941dcb1898c724326041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67ba2d8e35ad98dc80740146c3500b1') in 0.018456 seconds
+  Import took 0.024221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Pixel Square.ttf
+  artifactKey: Guid(5aa3e09a33d1146dfb90372883ee244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Pixel Square.ttf using Guid(5aa3e09a33d1146dfb90372883ee244d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bcb0d8171d4d2d63704a7f05564d545') in 0.022112 seconds
+  Import took 0.028376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000717 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Rocket Square.ttf
+  artifactKey: Guid(79f4a647a01624310ae6f16f23fbd6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Rocket Square.ttf using Guid(79f4a647a01624310ae6f16f23fbd6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a3a56c444b9268457f71a4fe715472') in 0.017273 seconds
+  Import took 0.023224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Rocket.ttf
+  artifactKey: Guid(c743f5abb5c0243e38d8c9c295193e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Rocket.ttf using Guid(c743f5abb5c0243e38d8c9c295193e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7a262c9ceac0c7b36fc249cddc011e') in 0.017394 seconds
+  Import took 0.022869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Future.ttf
+  artifactKey: Guid(2d3677aa2e3ac4e9f8740b1c57e8526b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Future.ttf using Guid(2d3677aa2e3ac4e9f8740b1c57e8526b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ff575879ca35b5df584a68d3c6886e') in 0.018673 seconds
+  Import took 0.024305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Pixel.ttf
+  artifactKey: Guid(ec0447714e99f45589b50ee01f7d4ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Pixel.ttf using Guid(ec0447714e99f45589b50ee01f7d4ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53fffaed8d893491e7432fb8416995c5') in 0.017911 seconds
+  Import took 0.023639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Mini Square.ttf
+  artifactKey: Guid(5e91aa25c1d5b4a2c8a89e8500c8e3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Mini Square.ttf using Guid(5e91aa25c1d5b4a2c8a89e8500c8e3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e3e47e6926c5b3231a0841279b62b2') in 0.014902 seconds
+  Import took 0.020333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Future Narrow.ttf
+  artifactKey: Guid(3d9ae36be49f947538727ce1436077e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Future Narrow.ttf using Guid(3d9ae36be49f947538727ce1436077e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4adced8a4ae465e3baafe55e31cd4beb') in 0.020348 seconds
+  Import took 0.026756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/kenney_fontpackage/Fonts/Kenney Mini.ttf
+  artifactKey: Guid(faf2a307e6f3e40928ffcf5b0e95c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_fontpackage/Fonts/Kenney Mini.ttf using Guid(faf2a307e6f3e40928ffcf5b0e95c6c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d170bfaa8760b26daa063d066b84f5b') in 0.016187 seconds
+  Import took 0.021702 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.416 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.9 MB.
+System memory in use after: 200.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 2.659152 ms (FindLiveObjects: 0.394353 ms CreateObjectMapping: 0.095583 ms MarkObjects: 2.046638 ms  DeleteObjects: 0.121022 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.012 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.2 MB.
+System memory in use after: 201.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 3.267393 ms (FindLiveObjects: 0.370320 ms CreateObjectMapping: 0.156821 ms MarkObjects: 2.573162 ms  DeleteObjects: 0.165021 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.4 MB.
+System memory in use after: 201.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2636.
+Total: 2.974854 ms (FindLiveObjects: 0.373276 ms CreateObjectMapping: 0.156556 ms MarkObjects: 2.286943 ms  DeleteObjects: 0.156765 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.6 MB.
+System memory in use after: 201.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2639.
+Total: 5.323997 ms (FindLiveObjects: 0.625486 ms CreateObjectMapping: 0.240277 ms MarkObjects: 4.242995 ms  DeleteObjects: 0.211807 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.918288 seconds.
+  path: Assets/Scenes/GameOver.unity
+  artifactKey: Guid(871b82f1971fd4f5db437d28dbf64593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOver.unity using Guid(871b82f1971fd4f5db437d28dbf64593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f056b1dcbbdf368740408e8fc251b8f8') in 0.024058 seconds
+  Import took 0.031148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026802 seconds.
+  path: Assets/Scenes/GameOver.unity
+  artifactKey: Guid(871b82f1971fd4f5db437d28dbf64593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOver.unity using Guid(871b82f1971fd4f5db437d28dbf64593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f056b1dcbbdf368740408e8fc251b8f8') in 0.006824 seconds
+  Import took 0.015907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.718412 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(204c30f85f2c6436c923b964be97e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(204c30f85f2c6436c923b964be97e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f759a63373a96ba83724c152e83037') in 0.002743 seconds
+  Import took 0.012777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003778 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(204c30f85f2c6436c923b964be97e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(204c30f85f2c6436c923b964be97e495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f759a63373a96ba83724c152e83037') in 0.003155 seconds
+  Import took 0.010795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.905663 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a57f58caaf4c504a336615e1f20b06d') in 0.192941 seconds
+  Import took 0.199203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.945876 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@3x.png
+  artifactKey: Guid(71d8b2e508f1d9947ba51013600a5eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@3x.png using Guid(71d8b2e508f1d9947ba51013600a5eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d6012d84b83557b909de8046a9e2d3') in 1.194767 seconds
+  Import took 1.199348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_playhead.png
+  artifactKey: Guid(9ea72647c24be493ba6f15a9cd2a24ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_playhead.png using Guid(9ea72647c24be493ba6f15a9cd2a24ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268c1ce233daebbe981c61462a48085b') in 0.016937 seconds
+  Import took 0.022409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@4x.png
+  artifactKey: Guid(554a30a45860f494ca38586c54b7e5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Sprite_Mode@4x.png using Guid(554a30a45860f494ca38586c54b7e5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11100e51952d2914c22c121b940cba3d') in 0.015746 seconds
+  Import took 0.022218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001181 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@4x.png
+  artifactKey: Guid(2223b0a570b66ee42b3e0a79f0789b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Sprite_Mode@4x.png using Guid(2223b0a570b66ee42b3e0a79f0789b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b33d0b682234081fedddcc2eea7c9a') in 0.025105 seconds
+  Import took 0.033226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentBrokenPro.png
+  artifactKey: Guid(3f0215e89d05b544d907d3a7d34fab63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentBrokenPro.png using Guid(3f0215e89d05b544d907d3a7d34fab63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08877e3afeccac5cf06a35ec1d3d3a7c') in 0.014761 seconds
+  Import took 0.023050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+  artifactKey: Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png using Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72a66985cd2b8b676ca1028d6a168e8') in 0.024565 seconds
+  Import took 0.033874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001919 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_rightrange.png
+  artifactKey: Guid(ee5df01235032491c8b180741ea820fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_rightrange.png using Guid(ee5df01235032491c8b180741ea820fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f4f09ed27c8c17cbd48f477184a2e2') in 0.015814 seconds
+  Import took 0.025411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000652 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentBroken.png
+  artifactKey: Guid(b370d25fdf6f8914287e27c0c3dede6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentBroken.png using Guid(b370d25fdf6f8914287e27c0c3dede6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '476b23aebf9f13c01039aa7b20a115c3') in 0.027327 seconds
+  Import took 0.033233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/SpriteShapeEdge.png
+  artifactKey: Guid(0ae2b74b1edd14bb18dd7b65ae916a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/SpriteShapeEdge.png using Guid(0ae2b74b1edd14bb18dd7b65ae916a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659b8edd0f5cdb7285b948bd75fc06a3') in 0.032979 seconds
+  Import took 0.039351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png
+  artifactKey: Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png using Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972e2d5d2a1baa64b14fe6e529277576') in 0.018635 seconds
+  Import took 0.024172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000774 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png
+  artifactKey: Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png using Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a2554ce37e5cb6df70eefc2e414e58') in 0.013643 seconds
+  Import took 0.019917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056567 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png
+  artifactKey: Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/Handles/ss_leftrange.png using Guid(9417efc47083f4a1598c1966a6345cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a2554ce37e5cb6df70eefc2e414e58') in 0.012373 seconds
+  Import took 0.018666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.064133 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentContinuous.png
+  artifactKey: Guid(229e750703f3e824ca71ddd16a5e36be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentContinuous.png using Guid(229e750703f3e824ca71ddd16a5e36be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08010f124aeed267c32aebf5c8780fa1') in 0.049590 seconds
+  Import took 0.058626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026912 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentContinuousPro.png
+  artifactKey: Guid(8d4a2ded892e27742bb6d4d263639dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentContinuousPro.png using Guid(8d4a2ded892e27742bb6d4d263639dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88c9eb1a417aa39182c881d3e390d9a') in 0.021620 seconds
+  Import took 0.033142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002079 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentLinear.png
+  artifactKey: Guid(a728d9332cba5f448a36350199dc573b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentLinear.png using Guid(a728d9332cba5f448a36350199dc573b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67642f8b86c4e9e2e618458f358a570d') in 0.023993 seconds
+  Import took 0.031356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Packages/com.unity.2d.path/Editor/Handles/TangentLinearPro.png
+  artifactKey: Guid(cafc16189f045f445bad6f5eb9e13541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.path/Editor/Handles/TangentLinearPro.png using Guid(cafc16189f045f445bad6f5eb9e13541) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3284a411ea9d5cd1297b8b4a696c93') in 0.018691 seconds
+  Import took 0.025251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150990 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_bigRed.png
+  artifactKey: Guid(1f5335661381846f7b8313e0f7306a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_bigRed.png using Guid(1f5335661381846f7b8313e0f7306a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214959f3e2b5a0756883c93fd8c84efe') in 0.018037 seconds
+  Import took 0.025120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_bigRed.png
+  artifactKey: Guid(1390d0a5a4ee34454b2acf48de64ee6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_bigRed.png using Guid(1390d0a5a4ee34454b2acf48de64ee6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65e1cdec9cb065cc759a7766697c309') in 0.018963 seconds
+  Import took 0.024823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166564 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_bigRed.png
+  artifactKey: Guid(1390d0a5a4ee34454b2acf48de64ee6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_bigRed.png using Guid(1390d0a5a4ee34454b2acf48de64ee6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65e1cdec9cb065cc759a7766697c309') in 0.013388 seconds
+  Import took 0.020543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138689 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_blue.png
+  artifactKey: Guid(321bb0926d0c24c7998b28cdfe46609e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_blue.png using Guid(321bb0926d0c24c7998b28cdfe46609e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05aeb82977062259990233a46e32e4ee') in 0.015033 seconds
+  Import took 0.021658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_blue.png
+  artifactKey: Guid(e9bb242e005334c72a1f659e4505042d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_blue.png using Guid(e9bb242e005334c72a1f659e4505042d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94f0440eb5edeceff9f1f45c9e09025') in 0.016357 seconds
+  Import took 0.022557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004286 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_blue.png
+  artifactKey: Guid(321bb0926d0c24c7998b28cdfe46609e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_blue.png using Guid(321bb0926d0c24c7998b28cdfe46609e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05aeb82977062259990233a46e32e4ee') in 0.013381 seconds
+  Import took 0.019972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201050 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_dark.png
+  artifactKey: Guid(6afbc28cec26b441eb8e0cea857cb277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_dark.png using Guid(6afbc28cec26b441eb8e0cea857cb277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05a302891666ae5d94bbf9802d612ff') in 0.016691 seconds
+  Import took 0.024188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_dark.png
+  artifactKey: Guid(3fb95190c644649f7be7ae82fc54286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_dark.png using Guid(3fb95190c644649f7be7ae82fc54286b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7210e4ccdccde924cc6d0a2dd31c4b07') in 0.022394 seconds
+  Import took 0.028856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.906152 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_darkLarge.png
+  artifactKey: Guid(9386e6c0cea224c8cb5f48f99b0c7a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_darkLarge.png using Guid(9386e6c0cea224c8cb5f48f99b0c7a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2d862183ae81db9e12b5405eac995e') in 0.017248 seconds
+  Import took 0.023541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_green.png
+  artifactKey: Guid(729c33abdb0574325a606f41ab41e99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_green.png using Guid(729c33abdb0574325a606f41ab41e99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4462ca94fad883f10235551a1a7067e5') in 0.014791 seconds
+  Import took 0.020691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_huge.png
+  artifactKey: Guid(7998309edc5c54884abc373756e2a719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_huge.png using Guid(7998309edc5c54884abc373756e2a719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730df2fb90c526f946e4d80ee320c18b') in 0.015736 seconds
+  Import took 0.021833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_red.png
+  artifactKey: Guid(a583812b5e9ff4bbbba162a48d4ad1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_red.png using Guid(a583812b5e9ff4bbbba162a48d4ad1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7b17b19dde527cbbd131301c5c05a1') in 0.012770 seconds
+  Import took 0.017967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_huge.png
+  artifactKey: Guid(22f78e131232d46c88195d7622fe2e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_huge.png using Guid(22f78e131232d46c88195d7622fe2e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20314f5686349c8af9f19f8d21c68f7') in 0.016606 seconds
+  Import took 0.023253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_huge.png
+  artifactKey: Guid(44145efe57cfe4631b52e083837ad3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_huge.png using Guid(44145efe57cfe4631b52e083837ad3f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5c7b5b5e30e63538913bc6a8564fcd8') in 0.016528 seconds
+  Import took 0.025453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_green_outline.png
+  artifactKey: Guid(89b8b02ca95404c069689e53850788cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_green_outline.png using Guid(89b8b02ca95404c069689e53850788cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af70e7a9a5cee12204913d6f167b2b6e') in 0.016786 seconds
+  Import took 0.024881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_darkLarge_outline.png
+  artifactKey: Guid(850929614cf5b4bfe9ea38b3792f77a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_darkLarge_outline.png using Guid(850929614cf5b4bfe9ea38b3792f77a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47a3cfcc4b7ade98401a9a5c489d06b') in 0.023282 seconds
+  Import took 0.029624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel1_outline.png
+  artifactKey: Guid(d05045bcfcaa64598b218d6f6204eecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel1_outline.png using Guid(d05045bcfcaa64598b218d6f6204eecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e4f525c457a499c8cf9b4e7f2aa9d4') in 0.016592 seconds
+  Import took 0.024563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002323 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel1.png
+  artifactKey: Guid(afc589d89c92349f4a4664ee5f25d585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel1.png using Guid(afc589d89c92349f4a4664ee5f25d585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4d6a31346f56672e09f86cf6befda1') in 0.017623 seconds
+  Import took 0.025696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tileSand_roadCornerLL.png
+  artifactKey: Guid(6c86c27bc7f624cb9831f9a01334df2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tileSand_roadCornerLL.png using Guid(6c86c27bc7f624cb9831f9a01334df2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ce427f3483c137e32d3e13315c884c') in 0.013375 seconds
+  Import took 0.019759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tileSand_roadCornerLR.png
+  artifactKey: Guid(16f7aeb344bb34a519b09108299c9c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tileSand_roadCornerLR.png using Guid(16f7aeb344bb34a519b09108299c9c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d30bb53d4b64748b65d7a9b7d5aeb8') in 0.014172 seconds
+  Import took 0.021068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001302 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tileSand1.png
+  artifactKey: Guid(c455b43971e6d453892cdf7e238addfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tileSand1.png using Guid(c455b43971e6d453892cdf7e238addfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2f0ab0be8d3197a1ed3359459f77b5') in 0.025566 seconds
+  Import took 0.034001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_sand_outline.png
+  artifactKey: Guid(35978d003a4c148c3bb9836f413e5b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_sand_outline.png using Guid(35978d003a4c148c3bb9836f413e5b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437e8ebcbe5d95fb6e6cf670eb654956') in 0.012961 seconds
+  Import took 0.018479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@2x.png
+  artifactKey: Guid(ef9977ed07c438845a52c577f4ffcc3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@2x.png using Guid(ef9977ed07c438845a52c577f4ffcc3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9736ab1722a1ef565433b53fc282346d') in 0.014220 seconds
+  Import took 0.019699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@2x.png
+  artifactKey: Guid(17d3bf7425a0748489ce3633e38652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush@2x.png using Guid(17d3bf7425a0748489ce3633e38652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8796d40d4e2120a7b0f501729b5b76aa') in 0.018888 seconds
+  Import took 0.025437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush.png
+  artifactKey: Guid(9d026c034cfd40746a436496efe2dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Weight_Brush.png using Guid(9d026c034cfd40746a436496efe2dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '086aa2f88d2ee2b88043f7f284d5f846') in 0.021760 seconds
+  Import took 0.029649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000608 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@4x.png
+  artifactKey: Guid(f082e69f825d0aa44b687e592731c0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@4x.png using Guid(f082e69f825d0aa44b687e592731c0a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb84bfbe8b9d5e9b739f7a76cd52e25') in 0.013128 seconds
+  Import took 0.018590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@2x.png
+  artifactKey: Guid(45c995b76b893fd4b9e8d3e0f9f6463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@2x.png using Guid(45c995b76b893fd4b9e8d3e0f9f6463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4b0d4e1f6acca5a0a6005763f24b07') in 0.012816 seconds
+  Import took 0.019438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush.png
+  artifactKey: Guid(bf734b7184825b040837040cb93a8dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush.png using Guid(bf734b7184825b040837040cb93a8dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42972e85c8c20398235c90fd1cc62fff') in 0.012833 seconds
+  Import took 0.018527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool.png
+  artifactKey: Guid(7342ee656932e31489ea62e64e012645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool.png using Guid(7342ee656932e31489ea62e64e012645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd510c3e8b0c9d5e69303f312ac229bd5') in 0.013792 seconds
+  Import took 0.020021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000810 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tileGrass_transitionW.png
+  artifactKey: Guid(2b437d0ed2d4345d3bfce88025206f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tileGrass_transitionW.png using Guid(2b437d0ed2d4345d3bfce88025206f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5558d7805cdf5e9d02c6438c2c9c5143') in 0.017538 seconds
+  Import took 0.032038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000797 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@2x.png
+  artifactKey: Guid(bb668641abe10a64891e26613cf530ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Weight_Brush@2x.png using Guid(bb668641abe10a64891e26613cf530ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b54adcd6ff186d920bc47119f26323d') in 0.014947 seconds
+  Import took 0.023309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel2.png
+  artifactKey: Guid(4e5629e93c367465ba53f2082501fd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel2.png using Guid(4e5629e93c367465ba53f2082501fd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e645b9c0701f28c7d20a12c23e7aa678') in 0.016568 seconds
+  Import took 0.023752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel2_outline.png
+  artifactKey: Guid(9be98c2f349184c8ba21a1326d5ff432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel2_outline.png using Guid(9be98c2f349184c8ba21a1326d5ff432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f2ef85b1538514549d2424fbaff2f3') in 0.013993 seconds
+  Import took 0.022568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel1.png
+  artifactKey: Guid(54be0e1806be240b89a155fa5d86b724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel1.png using Guid(54be0e1806be240b89a155fa5d86b724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a2977c902cbe58a4ce31ac75029cf6') in 0.022035 seconds
+  Import took 0.030159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/wireStraight.png
+  artifactKey: Guid(e550f7501be6e40e2aa33f734921c7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/wireStraight.png using Guid(e550f7501be6e40e2aa33f734921c7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666031b19111be0511b396aa721886ae') in 0.017504 seconds
+  Import took 0.025339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_darkLarge_outline.png
+  artifactKey: Guid(87d79b3cc04c64f4cb227367e79c01a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_darkLarge_outline.png using Guid(87d79b3cc04c64f4cb227367e79c01a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23728283c2e55d70b4350111d51d8953') in 0.015975 seconds
+  Import took 0.022242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tileGrass_transitionS.png
+  artifactKey: Guid(cd7f3df7e0ffe42f9a1e38dda1082a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tileGrass_transitionS.png using Guid(cd7f3df7e0ffe42f9a1e38dda1082a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd088c09b93275a4ed78c92f65b5af251') in 0.013669 seconds
+  Import took 0.018947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBlue_barrel1.png
+  artifactKey: Guid(da80fc1ab61944887b2f03d4a7b40f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBlue_barrel1.png using Guid(da80fc1ab61944887b2f03d4a7b40f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119ae5101a0795d1d52eb47ad6d7281c') in 0.019169 seconds
+  Import took 0.026566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_sand.png
+  artifactKey: Guid(3cbe81cd28866450abda274fe5b16262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_sand.png using Guid(3cbe81cd28866450abda274fe5b16262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4196d3ba01fb846021d80678d4cd9675') in 0.015978 seconds
+  Import took 0.023459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_darkLarge.png
+  artifactKey: Guid(94ddedec47367428f88a6760c31f0ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_darkLarge.png using Guid(94ddedec47367428f88a6760c31f0ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e383056e41b5f51b32b82f5af088d0') in 0.019025 seconds
+  Import took 0.026883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel1_outline.png
+  artifactKey: Guid(6939fcfbf4e904654a193f8dc24865e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel1_outline.png using Guid(6939fcfbf4e904654a193f8dc24865e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a10e2d57bf634f867a0d279f5a59fa') in 0.025230 seconds
+  Import took 0.031153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tileSand2.png
+  artifactKey: Guid(fe3b5b19403c2461bacba2460ad9ac9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tileSand2.png using Guid(fe3b5b19403c2461bacba2460ad9ac9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5feaced867095021e121b2ad7b938998') in 0.019335 seconds
+  Import took 0.026622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@4x.png
+  artifactKey: Guid(216c53aef79eaaf40a1800cc5e542dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@4x.png using Guid(216c53aef79eaaf40a1800cc5e542dc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b924462f28445a96467699427bd463') in 0.015010 seconds
+  Import took 0.021664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tileSand_roadCornerLR.png
+  artifactKey: Guid(a23706aae8a524caf81305ba837af497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tileSand_roadCornerLR.png using Guid(a23706aae8a524caf81305ba837af497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f2fa1358f9fb53b0549e860e12a5346') in 0.017802 seconds
+  Import took 0.027501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBlue_barrel1.png
+  artifactKey: Guid(7e6f40457aa834506be4dd82d619e675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBlue_barrel1.png using Guid(7e6f40457aa834506be4dd82d619e675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d69e85e4b6801eab4cc6f79986cc1e') in 0.019907 seconds
+  Import took 0.031137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_green_outline.png
+  artifactKey: Guid(0f20dc0061fcb458090826be46614f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_green_outline.png using Guid(0f20dc0061fcb458090826be46614f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941162406453ab9dd213faa9bad36b59') in 0.015291 seconds
+  Import took 0.022437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_green.png
+  artifactKey: Guid(5e5cbbb266f334872b2aa03493bd4fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_green.png using Guid(5e5cbbb266f334872b2aa03493bd4fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7c776860c62d45af4f9fe422af6a75') in 0.018448 seconds
+  Import took 0.026048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tileGrass_transitionW.png
+  artifactKey: Guid(2b674ff41dd7e4773a128ac2ddd66b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tileGrass_transitionW.png using Guid(2b674ff41dd7e4773a128ac2ddd66b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e201ff61aaae4f18726243dc62e5d8d') in 0.024792 seconds
+  Import took 0.031885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tileSand_roadCornerLL.png
+  artifactKey: Guid(d975ba8122f1d443a84f0eea2cfa9d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tileSand_roadCornerLL.png using Guid(d975ba8122f1d443a84f0eea2cfa9d47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3cfecea5ec4dcb9f66f2400adc1503') in 0.015251 seconds
+  Import took 0.022113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_sand.png
+  artifactKey: Guid(d415f4404069641cb986bdfbbf4952d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_sand.png using Guid(d415f4404069641cb986bdfbbf4952d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cca185ad3208efee68eee24112b0179') in 0.013328 seconds
+  Import took 0.019581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_huge.png
+  artifactKey: Guid(61ff479131f37489a912e8333ca0bcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_huge.png using Guid(61ff479131f37489a912e8333ca0bcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fe2f40690438b7526c588243c10b67') in 0.018199 seconds
+  Import took 0.024517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tank_red.png
+  artifactKey: Guid(d26b799718bd54cfb980d7c2bab4037f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tank_red.png using Guid(d26b799718bd54cfb980d7c2bab4037f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea524732cd582e9976d0d4afc954b2f8') in 0.020955 seconds
+  Import took 0.031432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@3x.png
+  artifactKey: Guid(ec23e33668eecff4aaec16f735dcc204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Visibility_Tool@3x.png using Guid(ec23e33668eecff4aaec16f735dcc204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece013bbd3dc89b244502c13e9731ca5') in 0.013913 seconds
+  Import took 0.020846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel2.png
+  artifactKey: Guid(643623bee52e9440fa4e999c0dfaed9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel2.png using Guid(643623bee52e9440fa4e999c0dfaed9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371ae3d27720197943d7a3d59a8593c3') in 0.016453 seconds
+  Import took 0.023503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel3.png
+  artifactKey: Guid(687c019044e744583aefe680b43414b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel3.png using Guid(687c019044e744583aefe680b43414b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0118ac6ef2248531bd8500d9790270') in 0.018929 seconds
+  Import took 0.026373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tank_green.png
+  artifactKey: Guid(3c073895e756a4fc4990e19ac2285e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tank_green.png using Guid(3c073895e756a4fc4990e19ac2285e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5125a150d3937129f988d4f6cf053316') in 0.016355 seconds
+  Import took 0.023356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel3.png
+  artifactKey: Guid(43f46c94ded364972b0936509fbc9c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankDark_barrel3.png using Guid(43f46c94ded364972b0936509fbc9c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43238455091981369705c284d97fc4e9') in 0.015257 seconds
+  Import took 0.022386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_huge_outline.png
+  artifactKey: Guid(49382ae4777184d469760a06577b19c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tankBody_huge_outline.png using Guid(49382ae4777184d469760a06577b19c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7ecdd07c0092eec4bc9fe0959ea34cd') in 0.036613 seconds
+  Import took 0.043143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000985 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tileSand2.png
+  artifactKey: Guid(1608b43a70a804ff69fdc8d502c7f275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tileSand2.png using Guid(1608b43a70a804ff69fdc8d502c7f275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f5b42a2e357205cbd00ee99d4a662b') in 0.015850 seconds
+  Import took 0.022067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel2_outline.png
+  artifactKey: Guid(69d5f8963f0b34055a0760a655047552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankDark_barrel2_outline.png using Guid(69d5f8963f0b34055a0760a655047552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbfdf0b97fa0da67b8654a9723713c2a') in 0.017302 seconds
+  Import took 0.028903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003406 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_green.png
+  artifactKey: Guid(f90ee38b654c94b948da21916997d203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_green.png using Guid(f90ee38b654c94b948da21916997d203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891af659e0c50b131881136c662f4b28') in 0.015149 seconds
+  Import took 0.023595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Default size/tileSand1.png
+  artifactKey: Guid(de0979655f7a7424bb17dd54217a2d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Default size/tileSand1.png using Guid(de0979655f7a7424bb17dd54217a2d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734d8c608b1a4d19cc3c1582308ba126') in 0.015093 seconds
+  Import took 0.023385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@3x.png
+  artifactKey: Guid(8004118ba4145a74e823fedaa37acf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Visibility_Tool@3x.png using Guid(8004118ba4145a74e823fedaa37acf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0c9ce08756197d8e9451d1d92662c9') in 0.015342 seconds
+  Import took 0.021619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_huge_outline.png
+  artifactKey: Guid(c94d0cc680d1344ccac81524da9cc4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/kenney_topdowntanksredux/PNG/Retina/tankBody_huge_outline.png using Guid(c94d0cc680d1344ccac81524da9cc4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ed358293652289e5f39942d45f3a1a') in 0.024820 seconds
+  Import took 0.031764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 597.394908 seconds.
+  path: Assets/Free Basic Cursor Pack
+  artifactKey: Guid(5d397983d778748309afb8afab25af01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack using Guid(5d397983d778748309afb8afab25af01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84ace20e3232215868418731b251f7f') in 0.021597 seconds
+  Import took 0.154353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.211385 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack
+  artifactKey: Guid(2f92800a840974c67b1e2725f71dda1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack using Guid(2f92800a840974c67b1e2725f71dda1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307372f00f48cca1221446f6752ae655') in 0.010333 seconds
+  Import took 0.018534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000827 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack
+  artifactKey: Guid(2f92800a840974c67b1e2725f71dda1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack using Guid(2f92800a840974c67b1e2725f71dda1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307372f00f48cca1221446f6752ae655') in 0.003460 seconds
+  Import took 0.013314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080800 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Free Basic Cursor Pack Square.jpg
+  artifactKey: Guid(39370c14cd7b54128a3fce3fb2a32def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Free Basic Cursor Pack Square.jpg using Guid(39370c14cd7b54128a3fce3fb2a32def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e0d986cbcb51553559c8dea06e32cb4') in 1.592484 seconds
+  Import took 1.597564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoadBlack.png
+  artifactKey: Guid(9af062e99c7b84a8182adda2dd5c789e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoadBlack.png using Guid(9af062e99c7b84a8182adda2dd5c789e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158d31f65e524fd9662e01de98d6eafb') in 0.033290 seconds
+  Import took 0.042689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000591 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefHand.png
+  artifactKey: Guid(afc4c4885fc6f41a582f24661d95c08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefHand.png using Guid(afc4c4885fc6f41a582f24661d95c08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b599fd9780d69e6162065b65f88bdd1') in 0.021971 seconds
+  Import took 0.029141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoadOnly.png
+  artifactKey: Guid(99a9684b8831741bb85f49e0d51bb339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoadOnly.png using Guid(99a9684b8831741bb85f49e0d51bb339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e0de623c47a15707b41e1d5dc3c870') in 0.039193 seconds
+  Import took 0.047524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefHandBlack.png
+  artifactKey: Guid(82aeb329a6ed7489fae696f16c7c7d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefHandBlack.png using Guid(82aeb329a6ed7489fae696f16c7c7d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa7021eff8d462d41da9779903c02f4') in 0.019131 seconds
+  Import took 0.025893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Def.png
+  artifactKey: Guid(3bbd864e7e66c46c8a217e9178611811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Def.png using Guid(3bbd864e7e66c46c8a217e9178611811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031f993e504b98d2f1144337026a3a66') in 0.042014 seconds
+  Import took 0.051545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Tri.png
+  artifactKey: Guid(4fcd3729c6d954945a95e21e70460fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Tri.png using Guid(4fcd3729c6d954945a95e21e70460fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a753ffd0ae66ed5326afbc760944674a') in 0.024153 seconds
+  Import took 0.030245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZBlinkCurBlack.png
+  artifactKey: Guid(a0e38631daa5342088fb792dab1c7f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZBlinkCurBlack.png using Guid(a0e38631daa5342088fb792dab1c7f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089eaaf89324de529ddb5eddae4f92da') in 0.038510 seconds
+  Import took 0.045488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95StopBlack.png
+  artifactKey: Guid(4f6206c14c09d4a3db5fa0cdf3a41ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95StopBlack.png using Guid(4f6206c14c09d4a3db5fa0cdf3a41ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5303b516341a8a2a373c28f98e4f5210') in 0.020815 seconds
+  Import took 0.028355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZInBlack.png
+  artifactKey: Guid(28d8ebddc8b6b4101be7d27f984edb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZInBlack.png using Guid(28d8ebddc8b6b4101be7d27f984edb7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a81dde8b0c1e885c2a45b1a1830535') in 0.026540 seconds
+  Import took 0.037522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000770 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefBlack.png
+  artifactKey: Guid(bdee09cc3aac444a7933e83e345eed4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefBlack.png using Guid(bdee09cc3aac444a7933e83e345eed4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af53673148ffe18b6e795893139fe42b') in 0.021978 seconds
+  Import took 0.028835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95TriBlack.png
+  artifactKey: Guid(5d90839a253d54c3992d1becb48f1568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95TriBlack.png using Guid(5d90839a253d54c3992d1becb48f1568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b66e24c72406f96e5e28485d76cff576') in 0.020526 seconds
+  Import took 0.029590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefGrabBlack.png
+  artifactKey: Guid(2269a604733a448848e957f691cb2a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefGrabBlack.png using Guid(2269a604733a448848e957f691cb2a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26e55d2f677c6f1ff14caa5185220bc') in 0.021470 seconds
+  Import took 0.031730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZOut.png
+  artifactKey: Guid(771076d3df61c4e2aa7357571ac6d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZOut.png using Guid(771076d3df61c4e2aa7357571ac6d51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3862c4d5c888d77fe81a571b14fd77') in 0.012866 seconds
+  Import took 0.018281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefGrab.png
+  artifactKey: Guid(27c09b2d36938499b83bea0e3b5432c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefGrab.png using Guid(27c09b2d36938499b83bea0e3b5432c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3adebe097dc2bdba1f43e32c3a86d6') in 0.016215 seconds
+  Import took 0.023458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZBlinkCur.png
+  artifactKey: Guid(cbb44f294c7ba4c04a33687fcd118327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZBlinkCur.png using Guid(cbb44f294c7ba4c04a33687fcd118327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1ca7ebfcc72772a300c52731e1633f') in 0.017434 seconds
+  Import took 0.024137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoad.png
+  artifactKey: Guid(c42abc68c77cb4f8182ff922f9bfb624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoad.png using Guid(c42abc68c77cb4f8182ff922f9bfb624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8f7c583b3c04347271bf55f2a5f54e') in 0.023085 seconds
+  Import took 0.028427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95MoveBlack.png
+  artifactKey: Guid(a71a29c4a0c464bc8bb174201fb3d502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95MoveBlack.png using Guid(a71a29c4a0c464bc8bb174201fb3d502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd600fec1e2164949396276a10fff7949') in 0.019345 seconds
+  Import took 0.036039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Plus.png
+  artifactKey: Guid(c157f5f61f36e41a190cc81936b7a006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Plus.png using Guid(c157f5f61f36e41a190cc81936b7a006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba962373a62a9096abd9d042e9f38f37') in 0.025495 seconds
+  Import took 0.034348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Stop.png
+  artifactKey: Guid(db1c38819d2c54007b468231b29088a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Stop.png using Guid(db1c38819d2c54007b468231b29088a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed1ec64e5c2f39a78725729f48ea4ed') in 0.017948 seconds
+  Import took 0.023785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Move.png
+  artifactKey: Guid(fcd7d7b7170304318a809c8673ab609a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95Move.png using Guid(fcd7d7b7170304318a809c8673ab609a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c146260696d72a5dc041ca0a9569da8f') in 0.038724 seconds
+  Import took 0.045226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefPalmBlack.png
+  artifactKey: Guid(5213eb12ec3ab4e488a40aba302d1aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefPalmBlack.png using Guid(5213eb12ec3ab4e488a40aba302d1aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bccb5df04dc1090cea36852c878a4cf0') in 0.017147 seconds
+  Import took 0.025597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZIn.png
+  artifactKey: Guid(47b0f028f1ed5491ba6708e211aee0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZIn.png using Guid(47b0f028f1ed5491ba6708e211aee0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860978353dd7f4840d0f7f0f17d6853b') in 0.032783 seconds
+  Import took 0.040969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95PlusBlack.png
+  artifactKey: Guid(21dc0480df6814cd087e737f197d8fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95PlusBlack.png using Guid(21dc0480df6814cd087e737f197d8fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16e4028339fe4be9bb0367f09e431ba') in 0.026159 seconds
+  Import took 0.035316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoadOnlyBlack.png
+  artifactKey: Guid(98606adaa4fa943e4bf4b0156cbdc2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefLoadOnlyBlack.png using Guid(98606adaa4fa943e4bf4b0156cbdc2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a4bb9af19a52de9b95fe12c5970cec') in 0.026809 seconds
+  Import took 0.035962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefPalm.png
+  artifactKey: Guid(06eb41dc4ab60444ba8f3151bc4f59e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95DefPalm.png using Guid(06eb41dc4ab60444ba8f3151bc4f59e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1223af11032c186bceb1778c8c8bc13d') in 0.021218 seconds
+  Import took 0.027647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000882 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZOutBlack.png
+  artifactKey: Guid(31cef2a428441487ca236a4581a92ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/Win95ZOutBlack.png using Guid(31cef2a428441487ca236a4581a92ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49f06ea3dae6b44e85ae5c035067171') in 0.019647 seconds
+  Import took 0.026942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.633072 seconds.
+  path: Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/MainMenuInput.inputactions
+  artifactKey: Guid(bd1854b24289e4ff28873b72211fa67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free Basic Cursor Pack/Free Basic Cursor Pack/MainMenuInput.inputactions using Guid(bd1854b24289e4ff28873b72211fa67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0267d4f9acc414d487d72948990d901') in 1.226721 seconds
+  Import took 1.233954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.455820 seconds.
+  path: Assets/MainMenuInput.inputactions
+  artifactKey: Guid(bd1854b24289e4ff28873b72211fa67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenuInput.inputactions using Guid(bd1854b24289e4ff28873b72211fa67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92db51f388455294db684dbea0fc7a50') in 0.063294 seconds
+  Import took 0.069964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006366 seconds.
+  path: Assets/MainMenuInput.inputactions
+  artifactKey: Guid(bd1854b24289e4ff28873b72211fa67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainMenuInput.inputactions using Guid(bd1854b24289e4ff28873b72211fa67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92db51f388455294db684dbea0fc7a50') in 0.010053 seconds
+  Import took 0.015197 seconds .
+

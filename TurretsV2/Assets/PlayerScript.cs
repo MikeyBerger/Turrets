@@ -2,12 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerScript : MonoBehaviour
 {
     Vector2 MousePos;
     private Rigidbody2D RB;
     public Rigidbody2D Gun;
+    public Transform Tank;
     public float Offset;
     public bool IsShooting = false;
     Vector2 RotateVector;
@@ -18,9 +20,7 @@ public class PlayerScript : MonoBehaviour
     public Transform Bullet;
     public Transform AudioClip;
     public float BulletForce;
-    public bool P2;
-    public bool P3;
-    public bool P4;
+    public float Lives;
 
 
     IEnumerator StopShooting()
@@ -69,6 +69,7 @@ public class PlayerScript : MonoBehaviour
             gameObject.tag = "Player4";
         }
 
+
         //print(MousePos);
         /*
         Vector2 FaceDir = MousePos - Gun.position;
@@ -76,6 +77,7 @@ public class PlayerScript : MonoBehaviour
         RB.MoveRotation(Angle - Offset);
         */
         RotateTurret();
+        RotateTank();
 
         transform.Translate(new Vector2(MoveVector.x, MoveVector.y) * Speed);
 
@@ -91,9 +93,15 @@ public class PlayerScript : MonoBehaviour
 
     void RotateTurret()
     {
-        Gun.transform.up = new Vector2(RotateVector.x, RotateVector.y) * -1;
+        Gun.transform.up = new Vector2(RotateVector.x, RotateVector.y) * -1 * Time.deltaTime;
     }
 
+    void RotateTank()
+    {
+        Tank.transform.up = new Vector2(MoveVector.x, MoveVector.y) * Time.deltaTime;
+    }
+
+    #region InputActions
     public void OnFire(InputAction.CallbackContext ctx)
     {
         if (ctx.phase == InputActionPhase.Performed)
@@ -113,4 +121,5 @@ public class PlayerScript : MonoBehaviour
     {
         MoveVector = ctx.ReadValue<Vector2>();
     }
+    #endregion
 }

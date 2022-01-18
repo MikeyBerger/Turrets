@@ -243,6 +243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Gun: {fileID: 0}
+  Tank: {fileID: 756881651499991530}
   Offset: -90
   IsShooting: 0
   Speed: 0.05
@@ -251,6 +252,7 @@ MonoBehaviour:
   Bullet: {fileID: 7314074718847234545, guid: 17ea75ea0faac4f4cb4f09ac6c28366a, type: 3}
   AudioClip: {fileID: 8159331056632983558, guid: 7c297c4c8a6424345a84d73f039a3586, type: 3}
   BulletForce: 5
+  Lives: 0
 --- !u!1 &756881653157503080
 GameObject:
   m_ObjectHideFlags: 0
