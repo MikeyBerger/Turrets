@@ -6,9 +6,33 @@
             "id": "1807dcd3-1b3e-4f4a-b1f6-698b8a1bb682",
             "actions": [
                 {
-                    "name": "Continue",
+                    "name": "1Player",
                     "type": "Button",
-                    "id": "75323eac-10d0-4788-8e54-79a753a66cf8",
+                    "id": "33364c52-863a-4fda-a213-38d356659ff2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "2Player",
+                    "type": "Button",
+                    "id": "3bb9057c-eda0-4ca4-9094-5f8fc25af81c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "3Player",
+                    "type": "Button",
+                    "id": "79a171d5-c995-4b8c-a3e7-fdb2c96863e8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "4Player",
+                    "type": "Button",
+                    "id": "66d16c7b-ef91-4b96-af84-b5fc3a42a4f1",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
@@ -17,100 +41,89 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "7bb1e5dc-72d1-42ab-8226-e5b4f55d9150",
-                    "path": "<Gamepad>/buttonEast",
+                    "id": "c28384ab-8851-4eb6-a736-6f688d409be6",
+                    "path": "<Keyboard>/1",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Continue",
+                    "action": "1Player",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "da089f47-e317-40a5-921e-ff17b6ebda67",
-                    "path": "<Gamepad>/buttonNorth",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Continue",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "5b093e93-e8fe-44a0-aaad-17185d240027",
-                    "path": "<Gamepad>/buttonSouth",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Continue",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "54b34674-aefe-4689-8774-36b36d4e9d8d",
-                    "path": "<Gamepad>/buttonWest",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Continue",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "87893a7c-90c5-4187-899d-016bdc8a1845",
-                    "path": "<Keyboard>/anyKey",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Continue",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "119595f0-66e3-4a65-b68e-249328b8ce89",
-                    "path": "<Gamepad>/leftShoulder",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Continue",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "4e7bd641-40dd-417a-9bcb-17a85e196045",
-                    "path": "<Gamepad>/leftTrigger",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Continue",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "71670c2b-d2ce-4103-835b-fdf15e5f8205",
+                    "id": "7d11a6bb-c00c-4b81-9778-6e6a27260949",
                     "path": "<Gamepad>/rightShoulder",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Continue",
+                    "action": "1Player",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
-                    "id": "374ad620-2373-44e4-a29c-6d0312cff575",
+                    "id": "aa06e79f-f3d1-4280-97f3-46e419787555",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "2Player",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bf6150a9-c610-4bad-a9d0-e8926399a3db",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "2Player",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bb6c9033-8a02-4c25-bce2-c7591f636077",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "3Player",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d2b5c316-791a-4884-935e-cc87aa2932ff",
                     "path": "<Gamepad>/rightTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Continue",
+                    "action": "3Player",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "31fd7017-11c7-4527-b468-08a82e983be8",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "4Player",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "933d44c4-3001-4cf0-b21d-f7341225d752",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "4Player",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

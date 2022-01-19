@@ -1,0 +1,55 @@
+{
+    "name": "GameOverInput",
+    "maps": [
+        {
+            "name": "GameOverMap",
+            "id": "75e82f38-4a70-4d5e-a115-eff7abdd2c46",
+            "actions": [
+                {
+                    "name": "Return",
+                    "type": "Button",
+                    "id": "76df339c-bb62-4a55-a250-7c1c809dbbf2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d7766aaf-cb24-458c-9895-8fe8819ce403",
+                    "path": "<Gamepad>/select",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "daafa779-631a-4ee5-ada1-a8c596910ca8",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5e778c07-27ea-4a90-9f92-e914df8d7693",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Return",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
